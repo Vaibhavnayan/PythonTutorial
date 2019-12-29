@@ -3,6 +3,8 @@ a =5
 print(a)
 b="Hello"
 print(b)
+c="Hi"
+print(c)
 
 vaibhav_turtle= turtle.Turtle()
 
